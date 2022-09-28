@@ -1,0 +1,61 @@
+﻿  Barreto.cpp
+  Blackboard.cpp
+  Cadeira.cpp
+  DAFIS.cpp
+c:\users\icego\source\repos\project2\project2\dafis.cpp(31): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\icego\source\repos\project2\project2\dafis.cpp(154): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\dafis.cpp(165): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\dafis.cpp(183): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\dafis.cpp(194): warning C4018: '<': incompatibilidade de signed/unsigned
+  E208.cpp
+c:\users\icego\source\repos\project2\project2\e208.cpp(125): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\e208.cpp(143): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\e208.cpp(154): warning C4018: '<': incompatibilidade de signed/unsigned
+  Entidade.cpp
+  Fase.cpp
+  Giz.cpp
+c:\users\icego\source\repos\project2\project2\giz.cpp(21): warning C4018: '<': incompatibilidade de signed/unsigned
+  Inimigo.cpp
+  Janela.cpp
+  Jogo.cpp
+  Limites.cpp
+  ListaEntidades.cpp
+  ListaInimigos.cpp
+  ListaPlayer.cpp
+  Loli.cpp
+  Menu.cpp
+  MenuIniciar.cpp
+  MenuPause.cpp
+  MenuVitoria.cpp
+  Gerando Código...
+  Compilando...
+  Mesa.cpp
+  Mochila.cpp
+c:\users\icego\source\repos\project2\project2\mochila.cpp(7): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  Obstaculos.cpp
+  PatineteEletrico.cpp
+c:\users\icego\source\repos\project2\project2\patineteeletrico.cpp(32): warning C4244: '=': conversão de 'T' para 'int', possível perda de dados
+          with
+          [
+              T=float
+          ]
+  Personagem.cpp
+  Platform.cpp
+  Player.cpp
+  Barreto_the_Game.cpp
+  Projeteis.cpp
+c:\users\icego\source\repos\project2\project2\projeteis.cpp(22): warning C4018: '<': incompatibilidade de signed/unsigned
+  Rauli.cpp
+c:\users\icego\source\repos\project2\project2\rauli.cpp(122): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Ricky.cpp
+  SaladeAula.cpp
+c:\users\icego\source\repos\project2\project2\saladeaula.cpp(19): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\icego\source\repos\project2\project2\saladeaula.cpp(145): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\saladeaula.cpp(156): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\saladeaula.cpp(174): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\icego\source\repos\project2\project2\saladeaula.cpp(185): warning C4018: '<': incompatibilidade de signed/unsigned
+  TerraPlana.cpp
+c:\users\icego\source\repos\project2\project2\terraplana.cpp(20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Terraplanista.cpp
+  Gerando Código...
+  Project2.vcxproj -> C:\Users\icego\source\repos\Project2\Debug\Project2.exe

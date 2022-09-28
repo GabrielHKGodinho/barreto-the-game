@@ -1,0 +1,25 @@
+﻿  GerenciadorGrafico.cpp
+c:\users\icego\source\repos\project2\project2\gerenciadorgrafico.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Blackboard.cpp
+c:\users\icego\source\repos\project2\project2\blackboard.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  GerenciadorColisoes.cpp
+c:\users\icego\source\repos\project2\project2\gerenciadorcolisoes.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Entidade.cpp
+c:\users\icego\source\repos\project2\project2\entidade.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Limites.cpp
+c:\users\icego\source\repos\project2\project2\limites.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  ListaEntidades.cpp
+c:\users\icego\source\repos\project2\project2\entidade.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\icego\source\repos\project2\project2\main.cpp(1): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Mesa.cpp
+c:\users\icego\source\repos\project2\project2\mesa.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Obstaculos.cpp
+c:\users\icego\source\repos\project2\project2\obstaculo.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Platform.cpp
+c:\users\icego\source\repos\project2\project2\platform.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Player.cpp
+c:\users\icego\source\repos\project2\project2\player.h(2): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Barreto_the_Game.cpp
+c:\users\icego\source\repos\project2\project2\barreto_the_game.cpp(1): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML/Graphics.hpp': No such file or directory
+  Gerando Código...
